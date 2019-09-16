@@ -7,7 +7,7 @@
 }
 .namo
 {
-    font-family: chilanka;
+
     font-size: 15px;
 }
 .deepak:hover{
@@ -31,11 +31,15 @@ body{
     text-align: center;   
 }
 
-input[type="text"]
-{
+input[type="text"],input[type="password"]
+{   font-size: 25px;
     width: 50%;
 }
 
+
 .deepak420{
-    margin-left: 35%;
-}
+  margin-left: 35%;
+}  
+.deepak412{
+    margin-top:  2.8%;
+} 

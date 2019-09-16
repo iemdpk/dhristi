@@ -1,0 +1,41 @@
+.deepak{
+    color:rgba(41, 38, 38, 0.897);
+    padding: 10px 10px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+.namo
+{
+    font-family: chilanka;
+    font-size: 15px;
+}
+.deepak:hover{
+    background-color: rgb(142, 142, 143);
+    border-radius: 10px;
+    border: solid rgb(22, 17, 17) 1px;
+    color:rgba(41, 38, 38, 0.897);
+    padding: 10px 10px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+body{
+    font-family: 'Acme', sans-serif;
+}
+.footer
+{   
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    text-align: center;   
+}
+
+input[type="text"],input[type="password"]
+{
+    width: 50%;
+}
+
+.deepak420{
+    margin-left: 35%;
+}   

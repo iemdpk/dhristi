@@ -1,0 +1,62 @@
+.deepak{
+    color:rgba(41, 38, 38, 0.897);
+    padding: 10px 10px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+.namo
+{
+    font-family: chilanka;
+    font-size: 15px;
+}
+.deepak:hover{
+    background-color: rgb(142, 142, 143);
+    border-radius: 10px;
+    border: solid rgb(22, 17, 17) 1px;
+    color:rgba(41, 38, 38, 0.897);
+    padding: 10px 10px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.parallax-window
+{
+    padding: 200px 0px 345px;
+    background: transparent;
+}
+.info{
+    
+    overflow: hidden;
+    text-align: center;
+    font-size: 200px;
+    color:#1bffe1;
+    z-index: 2;
+    position: relative;
+    transform: translateY(60%);
+    font-family: 'Luckiest Guy', cursive;
+}
+.noker
+{
+    font-size: 100px;
+}
+body{
+    font-family: 'Acme', sans-serif;
+}
+.noker247
+{
+    text-align: center;
+}
+.noker24{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 30px;
+    
+}
+.footer
+{   
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    text-align: center;   
+}
+
